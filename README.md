@@ -7,3 +7,4 @@
 * Uso do comando git restore
 
 * COMANDO GIT PUSH
+* comando git pull
